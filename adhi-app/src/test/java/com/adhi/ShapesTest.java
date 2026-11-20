@@ -31,7 +31,7 @@ public class ShapesTest {
     void before() {
         System.out.println("Before all tests");
     }
-
+//
     // @BeforeEach executes BEFORE EVERY test method.
     // Even though the ShapesTest instance is reused,
     // a NEW Shapes object is created and assigned to obj before each test.
